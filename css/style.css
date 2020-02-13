@@ -1,0 +1,17 @@
+.group{
+  width: 11.5%;
+}
+.hand{
+  width: 8.5%;
+}
+.head{
+  width: 15%;
+  float: left;
+}
+#header{
+  height: 40px;
+}
+#startturn{
+  background-color: red;
+  color: white;
+}

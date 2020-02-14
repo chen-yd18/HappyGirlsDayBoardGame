@@ -17,7 +17,7 @@ function shuffle(){
   }
 }
 function imgname(x){
-  ret="img/"
+  ret="https://github.com/chen-yd18/HappyGirlsDayBoardGame/tree/master/img/"
   if(x==0)ret+="white.bmp";
   if(x==1)ret+="A1.bmp";
   if(x==2)ret+="A2.bmp";

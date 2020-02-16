@@ -361,6 +361,7 @@ function fooo(x){
           z3=999;
         }
         if(z1>=13){
+          if(ophelp)alert('该牌没有效果');
           z2=999;
           z3=999;
         }

@@ -17,26 +17,26 @@ function shuffle(){
   }
 }
 function imgname(x){
-  ret="https://raw.githubusercontent.com/chen-yd18/HappyGirlsDayBoardGame/master/img/"
-  if(x==0)ret+="white.bmp";
-  if(x==1)ret+="A1.bmp";
-  if(x==2)ret+="A2.bmp";
-  if(x==3)ret+="A3.bmp";
-  if(x==4)ret+="BS.bmp";
-  if(x==5)ret+="B2.bmp";
-  if(x==6)ret+="B3.bmp";
-  if(x==7)ret+="C1.bmp";
-  if(x==8)ret+="C2.bmp";
-  if(x==9)ret+="C3.bmp";
-  if(x==10)ret+="D1.bmp";
-  if(x==11)ret+="DS.bmp";
-  if(x==12)ret+="D3.bmp";
-  if(x==13)ret+="AB.bmp";
-  if(x==14)ret+="AC.bmp";
-  if(x==15)ret+="AD.bmp";
-  if(x==16)ret+="BC.bmp";
-  if(x==17)ret+="CD.bmp";
-  if(x==18)ret+="GG.bmp";
+  ret="https://i.loli.net/2020/02/16/"
+  if(x==0)ret+="2tf53eawQjFhXTV.jpg";
+  if(x==1)ret+="KmPpLxO56b24vRF.jpg";
+  if(x==2)ret+="Udt1Hb7ZIFlE3PW.jpg";
+  if(x==3)ret+="x38VAQgn5vGY9ck.jpg";
+  if(x==4)ret+="J9wzAqb6S1gtpC5.jpg";
+  if(x==5)ret+="oTaJ456OdGIERvf.jpg";
+  if(x==6)ret+="CVq4rW5EJGe6giR.jpg";
+  if(x==7)ret+="PMqEebaGHkUzuvp.jpg";
+  if(x==8)ret+="nWGQTEfOxqXd2aU.jpg";
+  if(x==9)ret+="RtyWI2GElHaejuC.jpg";
+  if(x==10)ret+="TPJt4ahF6snDGjC.jpg";
+  if(x==11)ret+="qTUxyeRISKnGhgZ.jpg";
+  if(x==12)ret+="uVE7pwmcG1d9bJU.jpg";
+  if(x==13)ret+="K8gPe54Ul26mnj3.jpg";
+  if(x==14)ret+="8CPgS5XeGJ6RyEm.jpg";
+  if(x==15)ret+="M6jtio2gbZTFr8a.jpg";
+  if(x==16)ret+="8I1EHhgGwDoAKUs.jpg";
+  if(x==17)ret+="3jgstXBaOYef7pk.jpg";
+  if(x==18)ret+="ydR3an5fsFMwuzO.jpg";
   return ret;
 }
 function paint(){

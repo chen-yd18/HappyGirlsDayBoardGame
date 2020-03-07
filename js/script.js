@@ -36,7 +36,7 @@ function imgname(x){
   if(x==15)ret+="M6jtio2gbZTFr8a.jpg";
   if(x==16)ret+="8I1EHhgGwDoAKUs.jpg";
   if(x==17)ret+="3jgstXBaOYef7pk.jpg";
-  if(x==18)ret+="ydR3an5fsFMwuzO.jpg";
+  if(x==18)ret="https://i.loli.net/2020/03/07/hjuSFYzKCBg6QcX.jpg";
   return ret;
 }
 function paint(){
